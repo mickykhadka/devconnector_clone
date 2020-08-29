@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://root:groot@cluster0.knsqw.mongodb.net/db?retryWrites=true&w=majority",
+  "jwtSecret": "not a secret anymore",
+  "githubClientId": "adcf61f4997ad3abc5e0",
+  "githubSecret": "10b36e1fe52db45707ba3b1f0abc0e3637c2a3f7"
+}
